@@ -1,0 +1,4 @@
+﻿## Interface: 30300
+## Author: Byster,Barsoom
+
+GuildRaidNotes.lua
